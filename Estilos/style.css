@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(217, 249, 240);
+}
+
+.Encabezado {
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+    
+}
